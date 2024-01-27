@@ -1,7 +1,6 @@
 ﻿using System;
-namespace GuessTheNum;
-
-class Program
+namespace GuessTheNum{
+    class Program
 {
     static void Main(string[] args)
     {
@@ -49,5 +48,7 @@ class Program
             }
         }
         Console.ReadKey();
-    }
+        }
+    }    
 }
+
