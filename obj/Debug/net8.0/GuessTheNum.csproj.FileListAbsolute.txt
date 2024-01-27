@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\GuessTheNum\bin\Debug\net8.0\GuessTheNum.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\GuessTheNum\bin\Debug\net8.0\GuessTheNum.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\GuessTheNum\bin\Debug\net8.0\GuessTheNum.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\GuessTheNum\bin\Debug\net8.0\GuessTheNum.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\GuessTheNum\bin\Debug\net8.0\GuessTheNum.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\GuessTheNum\obj\Debug\net8.0\GuessTheNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\GuessTheNum\obj\Debug\net8.0\GuessTheNum.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\GuessTheNum\obj\Debug\net8.0\GuessTheNum.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\GuessTheNum\obj\Debug\net8.0\GuessTheNum.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\GuessTheNum\obj\Debug\net8.0\GuessTheNum.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\GuessTheNum\obj\Debug\net8.0\refint\GuessTheNum.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\GuessTheNum\obj\Debug\net8.0\GuessTheNum.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\GuessTheNum\obj\Debug\net8.0\GuessTheNum.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\GuessTheNum\obj\Debug\net8.0\ref\GuessTheNum.dll
